@@ -21,7 +21,7 @@ class App extends Component {
 }
 
 var styles = {
-  hello: {
+  red: {
     backgroundColor: 'red',
   }
 }
